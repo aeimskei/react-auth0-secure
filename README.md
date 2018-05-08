@@ -6,7 +6,8 @@ Secure React app using Auth0 via client side and server side API.
 * Airbnb's best practice eslintrc with rules for .js and .jsx files
 * Retrieves data from server folder
 
-## Screenshots of Logged In vs. Looged Out
+## Screenshot of Logged Out
 <kbd>![alt text](img/logged-out-view.png "Logged Out View")</kbd>
-<br>
+
+## Screenshot of Logged In
 <kbd>![alt text](img/logged-in-view.png "Logged In View")</kbd>
