@@ -7,6 +7,6 @@ Secure React app using Auth0 via client side and server side API.
 * Retrieves data from server folder
 
 ## Screenshots of Logged In vs. Looged Out
-
-<kbd>![alt text](img/logged-in-view.png "Logged In View")</kbd>
 <kbd>![alt text](img/logged-out-view.png "Logged Out View")</kbd>
+<br>
+<kbd>![alt text](img/logged-in-view.png "Logged In View")</kbd>
